@@ -16,3 +16,12 @@
       }
 
     }
+
+### Inserting a character in String
+
+    String str = "aakash";	//Original String
+    System.out.println("Initial String--> "+str);
+    char cr = "a".charAt(0); // character to replace
+    int index = 2;	// Index where replaced
+    str = str.substring(0, index) + cr + str.substring(index + 1);// modified string`
+    System.out.println("Final String--> "+str);
