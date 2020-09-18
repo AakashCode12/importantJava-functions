@@ -1,4 +1,4 @@
-# importantJava-functions
+# Important Java Functions
 
 ### Function to check a palindrome string 
 
