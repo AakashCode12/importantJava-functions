@@ -1,6 +1,4 @@
 # importantJava-functions
-The important java functions which can be used in future
-
 
 ### Function to check a palindrome string 
 
