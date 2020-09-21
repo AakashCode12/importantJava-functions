@@ -17,7 +17,7 @@
 
     }
 
-### Inserting a character in String
+### Inserting a character in a String
 
       public static String insertCharacterInBetween(String str, char cr, int index) {
             // here the str is original String
