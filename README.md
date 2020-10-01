@@ -27,3 +27,11 @@
             str = str.substring(0, index) + cr + str.substring(index + 1);// modified string
             return str;
         }
+        
+### Sort a String function in java 
+
+    public static String sortAlphabeticallyString(String str) {
+            char charArray[] = str.toCharArray();
+            Arrays.sort(charArray);
+            return new String(charArray);
+        }
